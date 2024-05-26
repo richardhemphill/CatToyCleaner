@@ -1,6 +1,8 @@
 # CatToyCleaner
 Project with WaveShare JETANK and NVIDIA Jetson Nano to clean up cat toys.
 
+<img src="figures/CatToyCleaner.png" />
+
 ## Architecture
 
 A workflow diagram is shown in Figure 1 for the Cat Toy Cleaner project.
